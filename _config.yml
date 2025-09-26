@@ -25,12 +25,9 @@ author:
   # Biographic information
   avatar           : "ddyue.png"
   name             : "Dongdong Yue"
-  pronouns         : "he/his"  
   bio              : "Associate Professor"
   location         : "Nanjing"
   employer         : "Nanjing Tech University"
-  uri              : # URL
-  email            : "yued@njtech.edu.cn" 
 
   # Academic websites
   academia         : # URL
