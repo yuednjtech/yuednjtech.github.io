@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ## Dongdong Yue
-<p>*Associate Professor*</p>
+*Associate Professor*
 
 <p align="justify"> I am currently an associate professor with the College of Electrical Engineering and Control Science, Nanjing Tech University. Prior to that, I was a Postdoc with the School of Mathematics, Southeast University and was elected as a Member of 2021 China Postdoctoral Innovation Talent Support Program. </p>
 
