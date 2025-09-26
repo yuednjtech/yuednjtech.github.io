@@ -12,7 +12,6 @@ redirect_from:
 <br/>
 
 [College of Electrical Engineering and Control Science](https://eecs.njtech.edu.cn/)
-
 [Nanjing Tech University](https://en.njtech.edu.cn/)
 
 Email: <yued@njtech.edu.cn>; <yueseu@gmail.com>
