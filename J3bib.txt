@@ -1,0 +1,10 @@
+@article{yue2021neural,
+  title={Neural-network-embedded distributed average tracking of agents with matching unknown nonlinearities},
+  author={Yue, Dongdong and Li, Qi and Chong, Kil To and Cao, Jinde},
+  journal={Asian Journal of Control},
+  volume={23},
+  number={6},
+  pages={2628--2641},
+  year={2021},
+  publisher={Wiley Online Library}
+}

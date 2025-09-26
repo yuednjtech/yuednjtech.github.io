@@ -1,0 +1,9 @@
+@ARTICLE{9976276,
+  author={Yue, Dongdong and Baldi, Simone and Cao, Jinde},
+  journal={IEEE Transactions on Network Science and Engineering}, 
+  title={Distributed Aperiodic Time-Triggered and Event-Triggered Consensus: A Scalability Viewpoint}, 
+  year={2023},
+  volume={10},
+  number={3},
+  pages={1512-1524},
+  doi={10.1109/TNSE.2022.3227586}}

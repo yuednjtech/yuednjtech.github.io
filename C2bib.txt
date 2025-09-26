@@ -1,0 +1,8 @@
+@inproceedings{yue2019robust,
+  title={Robust Neuro-adaptive Asymptotic Consensus for a Class of Uncertain Multi-agent Systems: An Edge-based Paradigm},
+  author={Yue, Dongdong and Li, Qi and Cao, Jinde and Tan, Xuegang},
+  booktitle={2019 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--7},
+  year={2019},
+  organization={IEEE}
+}

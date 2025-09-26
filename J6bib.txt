@@ -1,0 +1,10 @@
+@ARTICLE{yue2021dao,  
+	author={Yue, Dongdong and Baldi, Simone and Cao, Jinde and De Schutter, Bart},  
+	journal={IEEE Transations on Automatic Control},   
+	title={Distributed Adaptive Optimization with Weight-Balancing},   
+	year={2022},
+	volume={67},
+	number={4},
+	pages={2068-2075}, 
+	doi={10.1109/TAC.2021.3071651}
+}

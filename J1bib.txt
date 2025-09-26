@@ -1,0 +1,10 @@
+@article{yue2019neuro,
+  title={Neuro-adaptive consensus strategy for a class of nonlinear time-delay multi-agent systems with an unmeasurable high-dimensional leader},
+  author={Yue, Dongdong and Cao, Jinde and Li, Qi and Shi, Xinli},
+  journal={IET Control Theory \& Applications},
+  volume={13},
+  number={2},
+  pages={230--238},
+  year={2019},
+  publisher={IET}
+}
