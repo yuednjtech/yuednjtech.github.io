@@ -42,7 +42,7 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 
 - D. Yue, S. Baldi and J. Cao, "Distributed aperiodic time-triggered and event-triggered consensus: a scalability viewpoint," in IEEE Transactions on Network Science and Engineering, 2023, [link](https://ieeexplore.ieee.org/abstract/document/9976276) [pdf](../files/J8.pdf) [bib](../files/J8bib.txt)
 
-- D. Yue, S. Baldi, J. Cao, Qi Li and B. De Schutter, "Distributed adaptive resource allocation: an uncertain saddle-point dynamics viewpoint," in IEEE/CAA Journal of Automatica Sinica, 2023, [link](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240382) [pdf](../files/J12.pdf) [bib](../files/J12bib.txt)
+- D. Yue, S. Baldi, J. Cao, Qi Li and B. De Schutter, "Distributed adaptive resource allocation: an uncertain saddle-point dynamics viewpoint," in IEEE/CAA Journal of Automatica Sinica, 2023, [link](https://ieeexplore.ieee.org/abstract/document/10302434) [pdf](../files/J7.pdf) [bib](../files/J7bib.txt)
 
 - D. Yue, S. Baldi, J. Cao and B. De Schutter, "Distributed adaptive optimization with weight-balancing," in IEEE Transactions on Automatic Control, 2021, [link](https://ieeexplore.ieee.org/document/9399286) [pdf](../files/J6.pdf) [bib](../files/J6bib.txt)
 
