@@ -1,0 +1,8 @@
+@inproceedings{yue2022distributed,
+  title={Distributed Adaptive Consensus Disturbance Rejection: a Directed-spanning-tree Perspective},
+  author={Yue, Dongdong and Baldi, Simone and Cao, Jinde},
+  booktitle={2022 41st Chinese Control Conference (CCC)},
+  pages={4694--4699},
+  year={2022},
+  organization={IEEE}
+}

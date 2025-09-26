@@ -1,0 +1,11 @@
+@article{yue2020neural,
+  title={Neural-Network-Based Fully Distributed Adaptive Consensus for a Class of Uncertain Multiagent Systems},
+  author={Yue, Dongdong and Cao, Jinde and Li, Qi and Liu, Qingshan},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2021},
+  volume={32},
+  number={7},
+  pages={2965-2977},
+  doi={10.1109/TNNLS.2020.3009098},
+  publisher={IEEE}
+}

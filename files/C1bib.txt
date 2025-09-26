@@ -1,0 +1,8 @@
+@inproceedings{tan2019event,
+  title={The event-based consensus of multi-agent networks with control gain in normal distribution},
+  author={Tan, Xuegang and Cao, Jinde and Chen, Rensi and Yue, Dongdong},
+  booktitle={2019 Chinese Control Conference (CCC)},
+  pages={5990--5994},
+  year={2019},
+  organization={IEEE}
+}
