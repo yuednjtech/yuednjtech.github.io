@@ -24,13 +24,13 @@ repository               : "yuednjtech/yuednjtech.github.io"
 author:
   # Biographic information
   avatar           : "ddyue.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Dongdong Yue"
+  pronouns         : "he/his"  
+  bio              : "Associate Professor"
+  location         : "Nanjing"
+  employer         : "Nanjing Tech University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yued@njtech.edu.cn" 
 
   # Academic websites
   academia         : # URL
