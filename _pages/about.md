@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-## About me
-<p align="justify"> I am currently an associate professor with the College of Electrical Engineering and Control Science, Nanjing Tech University. Prior to that, I was a Postdoc with the School of Mathematics, Southeast University and was elected as a Member of 2021 China Postdoctoral Innovation Talent Support Program. </p>
+## Dongdong Yue - 岳冬冬
+*Associate Professor*
+<br/>
+
+[College of Electrical Engineering and Control Science](https://eecs.njtech.edu.cn/)
+
+[Nanjing Tech University](https://en.njtech.edu.cn/)
 
 Email: <yued@njtech.edu.cn>; <yueseu@gmail.com>
