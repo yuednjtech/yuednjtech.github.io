@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "ddyue.png"
   name             : "Dongdong Yue"
-  bio              : "Associate Professor"
+  # bio              : "Associate Professor"
   location         : "Nanjing"
   employer         : "Nanjing Tech University"
 
