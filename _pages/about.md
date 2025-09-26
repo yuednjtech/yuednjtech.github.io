@@ -32,7 +32,7 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 ## Selected publications
 \* For a full list, please refer to [my Google Scholar page](https://scholar.google.com/citations?user=87n9UeMAAAAJ&hl=zh-CN)
 ### Journal papers
-[J12] 岳冬冬, 史建涛, 王钢, 曹进德. 有向图上不确定性参数系统的有限时间辨识与自适应一致性控制. 自动化学报, 2025, [link](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240382) [pdf](../files/J12.pdf) [bib](../files/J12bib.pdf)
+[J12] 岳冬冬, 史建涛, 王钢, 曹进德. 有向图上不确定性参数系统的有限时间辨识与自适应一致性控制. 自动化学报, 2025, [link](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240382) [pdf](../files/J12.pdf) [bib](../files/J12bib.txt)
 
 [J11]  D. Yue, S. Baldi, J. Cao and L. Shi, "Adaptive exponential consensus with cooperative exponential parameter identification over leaderless directed graphs," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025, [link] [pdf] [bib]
 
