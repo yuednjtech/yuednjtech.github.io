@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include toc %}
+
 ## Dongdong Yue - 岳冬冬
 *Associate Professor*
 
