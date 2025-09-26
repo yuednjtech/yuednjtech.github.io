@@ -29,3 +29,34 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 - Distributed optimization and networked games
 - Graph signal processing
 
+## Selected publications
+\* For a full list, please refer to [my Google Scholar page](https://scholar.google.com/citations?user=87n9UeMAAAAJ&hl=zh-CN)
+### Journal papers
+[J12] 岳冬冬, 史建涛, 王钢, 曹进德. 有向图上不确定性参数系统的有限时间辨识与自适应一致性控制. 自动化学报, 2025, [link](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240382) [pdf](../files/J12.pdf) [bib](../files/J12bib.pdf)
+
+[J11]  D. Yue, S. Baldi, J. Cao and L. Shi, "Adaptive exponential consensus with cooperative exponential parameter identification over leaderless directed graphs," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025, [link] [pdf] [bib]
+
+[J10] D. Yue, J. Shi, L. Shi, P. Frasca and S. Baldi. "Model reference adaptive stabilizing control for leader-following consensus," in IEEE Transactions on Automatic Control, 2025, [link] [pdf] [bib]
+
+[J9] D. Yue, S. Baldi, J. Cao and B. De Schutter, "Model reference adaptive stabilizing control with application to leaderless consensus," in IEEE Transactions on Automatic Control, 2024, [link] [pdf] [bib]
+
+[J8] D. Yue, S. Baldi and J. Cao, "Distributed aperiodic time-triggered and event-triggered consensus: a scalability viewpoint," in IEEE Transactions on Network Science and Engineering, 2023,  [link] [pdf] [bib]
+
+[J7] D. Yue, S. Baldi, J. Cao, Qi Li and B. De Schutter, "Distributed adaptive resource allocation: an uncertain saddle-point dynamics viewpoint," in IEEE/CAA Journal of Automatica Sinica, 2023,  [link] [pdf] [bib]
+
+[J6] D. Yue, S. Baldi, J. Cao and B. De Schutter, "Distributed Adaptive Optimization with Weight-Balancing," in IEEE Transactions on Automatic Control, 2021, [link] [pdf] [bib]
+
+[J5] D. Yue, S. Baldi, J. Cao, Qi Li and B. De Schutter, "A Directed Spanning Tree Adaptive Control Solution to Time-Varying Formations," in IEEE Transactions on Control of Network Systems, 2021, [link] [pdf] [bib]
+
+[J4] D. Yue, J. Cao, Qi Li and Q. Liu, "Neural-Network-Based Fully Distributed Adaptive Consensus for a Class of Uncertain Multiagent Systems," in IEEE Transactions on Neural Networks and Learning Systems, 2020, [link] [pdf] [bib]
+
+[J3] D. Yue, Qi Li, K. To Chong, J. Cao, "Neural‐network‐embedded distributed average tracking of agents with matching unknown nonlinearities," in Asian Journal of Control, 2020, [link] [pdf] [bib]
+
+[J2] D. Yue, J. Cao, Qi Li and M. Abdel-Aty, "Distributed Neuro-Adaptive Formation Control for Uncertain Multi-Agent Systems: Node- and Edge-Based Designs," in IEEE Transactions on Network Science and Engineering, 2020, [link] [pdf] [bib]
+
+[J1] D. Yue, J. Cao, Qi, Li and X. Shi, "Neuro-adaptive consensus strategy for a class of nonlinear time-delay multi-agent systems with an unmeasurable high-dimensional leader," in IET Control Theory & Applications, 2019, [link] [pdf] [bib]
+
+###
+
+
+
