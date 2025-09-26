@@ -32,25 +32,25 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 ## Selected publications
 \* For a full list, please refer to [my Google Scholar page](https://scholar.google.com/citations?user=87n9UeMAAAAJ&hl=zh-CN)
 ### Journal papers
-[J12] 岳冬冬, 史建涛, 王钢, 曹进德. 有向图上不确定性参数系统的有限时间辨识与自适应一致性控制. 自动化学报, 2025, [link](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240382) [pdf](../files/J12.pdf) [bib](../files/J12bib.txt)
+- 岳冬冬, 史建涛, 王钢, 曹进德. 有向图上不确定性参数系统的有限时间辨识与自适应一致性控制. 自动化学报, 2025, [link](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240382) [pdf](../files/J12.pdf) [bib](../files/J12bib.txt)
 
-[J11]  D. Yue, S. Baldi, J. Cao and L. Shi, "Adaptive exponential consensus with cooperative exponential parameter identification over leaderless directed graphs," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025, [link](https://ieeexplore.ieee.org/document/10819696) [pdf](../files/J11.pdf) [bib](../files/J11bib.txt)
+-  D. Yue, S. Baldi, J. Cao and L. Shi, "Adaptive exponential consensus with cooperative exponential parameter identification over leaderless directed graphs," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025, [link](https://ieeexplore.ieee.org/document/10819696) [pdf](../files/J11.pdf) [bib](../files/J11bib.txt)
 
-[J10] D. Yue, J. Shi, L. Shi, P. Frasca and S. Baldi. "Model reference adaptive stabilizing control for leader-following consensus," in IEEE Transactions on Automatic Control, 2025, [link](https://ieeexplore.ieee.org/document/10970026) [pdf](../files/J10ea.pdf) [bib](../files/J10bib.txt)
+- D. Yue, J. Shi, L. Shi, P. Frasca and S. Baldi. "Model reference adaptive stabilizing control for leader-following consensus," in IEEE Transactions on Automatic Control, 2025, [link](https://ieeexplore.ieee.org/document/10970026) [pdf](../files/J10-ea.pdf) [bib](../files/J10bib.txt)
 
-[J9] D. Yue, S. Baldi, J. Cao and B. De Schutter, "Model reference adaptive stabilizing control with application to leaderless consensus," in IEEE Transactions on Automatic Control, 2024, [link](https://ieeexplore.ieee.org/abstract/document/10246353) [pdf](../files/J9.pdf) [bib](../files/J9bib.txt)
+- D. Yue, S. Baldi, J. Cao and B. De Schutter, "Model reference adaptive stabilizing control with application to leaderless consensus," in IEEE Transactions on Automatic Control, 2024, [link](https://ieeexplore.ieee.org/abstract/document/10246353) [pdf](../files/J9.pdf) [bib](../files/J9bib.txt)
 
-[J8] D. Yue, S. Baldi and J. Cao, "Distributed aperiodic time-triggered and event-triggered consensus: a scalability viewpoint," in IEEE Transactions on Network Science and Engineering, 2023, [link](https://ieeexplore.ieee.org/abstract/document/9976276) [pdf](../files/J8.pdf) [bib](../files/J8bib.txt)
+- D. Yue, S. Baldi and J. Cao, "Distributed aperiodic time-triggered and event-triggered consensus: a scalability viewpoint," in IEEE Transactions on Network Science and Engineering, 2023, [link](https://ieeexplore.ieee.org/abstract/document/9976276) [pdf](../files/J8.pdf) [bib](../files/J8bib.txt)
 
-[J7] D. Yue, S. Baldi, J. Cao, Qi Li and B. De Schutter, "Distributed adaptive resource allocation: an uncertain saddle-point dynamics viewpoint," in IEEE/CAA Journal of Automatica Sinica, 2023, [link](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240382) [pdf](../files/J12.pdf) [bib](../files/J12bib.txt)
+- D. Yue, S. Baldi, J. Cao, Qi Li and B. De Schutter, "Distributed adaptive resource allocation: an uncertain saddle-point dynamics viewpoint," in IEEE/CAA Journal of Automatica Sinica, 2023, [link](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240382) [pdf](../files/J12.pdf) [bib](../files/J12bib.txt)
 
-[J6] D. Yue, S. Baldi, J. Cao and B. De Schutter, "Distributed adaptive optimization with weight-balancing," in IEEE Transactions on Automatic Control, 2021, [link](https://ieeexplore.ieee.org/document/9399286) [pdf](../files/J6.pdf) [bib](../files/J6bib.txt)
+- D. Yue, S. Baldi, J. Cao and B. De Schutter, "Distributed adaptive optimization with weight-balancing," in IEEE Transactions on Automatic Control, 2021, [link](https://ieeexplore.ieee.org/document/9399286) [pdf](../files/J6.pdf) [bib](../files/J6bib.txt)
 
-[J5] D. Yue, S. Baldi, J. Cao, Qi Li and B. De Schutter, "A directed spanning tree adaptive control solution to time-varying formations," in IEEE Transactions on Control of Network Systems, 2021, [link](https://ieeexplore.ieee.org/document/9317783) [pdf](../files/J5.pdf) [bib](../files/J5bib.txt)
+- D. Yue, S. Baldi, J. Cao, Qi Li and B. De Schutter, "A directed spanning tree adaptive control solution to time-varying formations," in IEEE Transactions on Control of Network Systems, 2021, [link](https://ieeexplore.ieee.org/document/9317783) [pdf](../files/J5.pdf) [bib](../files/J5bib.txt)
 
-[J4] D. Yue, J. Cao, Qi Li and Q. Liu, "Neural-network-based fully distributed adaptive consensus for a class of uncertain multiagent systems," in IEEE Transactions on Neural Networks and Learning Systems, 2020, [link](https://ieeexplore.ieee.org/document/9151397) [pdf](../files/J4.pdf) [bib](../files/J4bib.txt)
+- D. Yue, J. Cao, Qi Li and Q. Liu, "Neural-network-based fully distributed adaptive consensus for a class of uncertain multiagent systems," in IEEE Transactions on Neural Networks and Learning Systems, 2020, [link](https://ieeexplore.ieee.org/document/9151397) [pdf](../files/J4.pdf) [bib](../files/J4bib.txt)
 
-[J2] D. Yue, J. Cao, Qi Li and M. Abdel-Aty, "Distributed neuro-adaptive formation control for uncertain multi-agent systems: Node- and edge-based designs," in IEEE Transactions on Network Science and Engineering, 2020, [link](https://ieeexplore.ieee.org/document/9007519) [pdf](../files/J2.pdf) [bib](../files/J2bib.txt)
+- D. Yue, J. Cao, Qi Li and M. Abdel-Aty, "Distributed neuro-adaptive formation control for uncertain multi-agent systems: Node- and edge-based designs," in IEEE Transactions on Network Science and Engineering, 2020, [link](https://ieeexplore.ieee.org/document/9007519) [pdf](../files/J2.pdf) [bib](../files/J2bib.txt)
 
 
 ### Conference papers
