@@ -1,7 +1,7 @@
 ---
 permalink: /
 author_profile: true
-title: Welcome to my homepage!
+title: Welcome!
 redirect_from: 
   - /about/
   - /about.html
