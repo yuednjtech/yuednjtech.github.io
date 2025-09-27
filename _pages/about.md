@@ -65,8 +65,8 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 - D. Yue, Qi Li, J. Cao and X. Tan, "Robust neuro-adaptive asymptotic consensus for a class of uncertain multi-agent systems: An edge-based paradigm," 2019 International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary, 2019, [link](https://ieeexplore.ieee.org/document/8851918) [pdf](../files/C2.pdf) [bib](../files/C2bib.txt)
 
 ## Awards 
-- Natural Science Award by Chinese Association of Automation (CAA), Third Prize, *Rank 3/4* (2024 December) 
-- Outstanding PhD thesis of Class of 2022, Southeast University (2022 June)
-- National Government Scholarship for PhD students, Ministry of Education of P. R. China (2020 December)
-- National Government Scholarship for Studying Abroad, China Scholarship Council (2019 May)
-- Outstanding graduates of Class 2015, Hefei University of Technology (2015 July)
+- Natural Science Award by Chinese Association of Automation (CAA), Third Prize, *Rank 3/4* (2024) 
+- Outstanding PhD thesis of Class of 2022, Southeast University (2022)
+- National Government Scholarship for PhD students, Ministry of Education of P. R. China (2020)
+- National Government Scholarship for Studying Abroad, China Scholarship Council (2019)
+- Outstanding graduates of Class 2015, Hefei University of Technology (2015)
