@@ -42,7 +42,6 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 
 - China Postdoctoral Science Foundation under Grant BX2021064, 2021.7-2023.7, Distributed adaptive optimization and economic dispatch, ¥ 630,000
 
-
 ### Selected publications
 **Journal papers**
 
