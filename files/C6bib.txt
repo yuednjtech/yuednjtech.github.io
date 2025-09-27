@@ -1,0 +1,10 @@
+@article{yue2023d,
+  title={D-MRACO: Decentralized model reference adaptive controller and observer},
+  author={Yue, Dongdong and Baldi, Simone and Cao, Jinde},
+  journal={IFAC-PapersOnLine},
+  volume={56},
+  number={2},
+  pages={2044--2049},
+  year={2023},
+  publisher={Elsevier}
+}
