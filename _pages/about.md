@@ -25,7 +25,9 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 
 \* A full cv can be found [here](../files/cv_en.pdf).
 
-## Research interests
+## Research 
+
+### Research interests
 - Adaptive identification and control
   - model reference adaptive control, neuro-adaptive control, parameter identifier
 - Cooperative control of multi-agent systems
@@ -33,8 +35,19 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 - Distributed optimization and networked games
   - distributed adaptive optimization, resource allocation
 
-## Selected publications
-### Journal papers
+### Seleected Projects
+- National Natural Science Foundation of China under Grant 62503219, 2026.1-2028.12, Model reference adaptive stabilizing control of uncertain heterogenous multi-agent systems, &yen 300,000
+
+- China Postdoctoral Science Foundation under Grant 2025M771729, 2025.3-2027.2, Cooperative adaptive observer and identifier of uncertain linear systems, &yen 80,000
+
+- Natural Science Foundation of Jiangsu Province under Grant BK20240531, 2024.9-2027.8, Model reference adaptive stabilizing control of uncertain heterogenous network systems, &yen 200,000
+
+- China Postdoctoral Science Foundation under Grant BX2021064, 2021.7-2023.7, Distributed adaptive optimization and economic dispatch, \yen 630,000
+
+
+### Selected publications
+**Journal papers**
+
 - 岳冬冬, 史建涛, 王钢, 曹进德. 有向图上不确定性参数系统的有限时间辨识与自适应一致性控制. 自动化学报, 2025, [link](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240382) [pdf](../files/J12.pdf) [bib](../files/J12bib.txt)
 
 -  D. Yue, S. Baldi, J. Cao and L. Shi, "Adaptive exponential consensus with cooperative exponential parameter identification over leaderless directed graphs," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025, [link](https://ieeexplore.ieee.org/document/10819696) [pdf](../files/J11.pdf) [bib](../files/J11bib.txt)
@@ -55,7 +68,7 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 
 - D. Yue, J. Cao, Qi Li and M. Abdel-Aty, "Distributed neuro-adaptive formation control for uncertain multi-agent systems: Node- and edge-based designs," in IEEE Transactions on Network Science and Engineering, 2020, [link](https://ieeexplore.ieee.org/document/9007519) [pdf](../files/J2.pdf) [bib](../files/J2bib.txt)
 
-### Conference papers
+**Conference papers**
 - D. Yue, S. Baldi, and J. Cao, "D-MRACO: Decentralized Model Reference Adaptive Controller and Observer", IFAC-PapersOnLine, Yokohama, Japan, 2023, [link](https://www.sciencedirect.com/science/article/pii/S2405896323015057) [pdf](../files/C6.pdf) [bib](../files/C6bib.txt)
 
 - D. Yue, S. Baldi, and J. Cao, "Robust model reference adaptive consensus with neural networks", 34th  Chinese Control and Decision Conference (CCDC), Hefei, China, 2022, [link](https://ieeexplore.ieee.org/document/10033441) [pdf](../files/C5.pdf) [bib](../files/C5bib.txt)
