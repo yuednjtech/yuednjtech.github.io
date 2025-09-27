@@ -67,6 +67,6 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 ## Awards 
 - Natural Science Award by Chinese Association of Automation (CAA), Third Prize, *Rank 3/4* (2024 December) 
 - Outstanding PhD thesis of Class of 2022, Southeast University (2022 June)
-- National Government Scholarship for PhD students (2020 December)
+- National Government Scholarship for PhD students, Ministry of Education of P. R. China (2020 December)
 - National Government Scholarship for Studying Abroad, China Scholarship Council (2019 May)
 - Outstanding graduates of Class 2015, Hefei University of Technology (2015 July)
