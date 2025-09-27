@@ -27,9 +27,13 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 
 ## Research interests
 - Adaptive identification and control
+  - model reference adaptive control, neuro-adaptive control, parameter identifier
 - Cooperative control of multi-agent systems
+  - fully distributed adaptive control, consensus, formation, containment
 - Distributed optimization and networked games
+  - distributed adaptive optimization, resource allocation
 - Graph signal processing
+  - signal processing over directed graphs, distributed spatial filtering
 
 ## Selected publications
 ### Journal papers
@@ -68,11 +72,11 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 
 ### 2025~2026
 - Principles of Automatic Control
-- Acedemic Writing
+- Academic Writing
 
 ### 2024~2025
 - Principles of Automatic Control
-- Acedemic Writing
+- Academic Writing
 
 ## Awards 
 - Natural Science Award by Chinese Association of Automation (CAA), Third Prize, *Rank 3/4*
