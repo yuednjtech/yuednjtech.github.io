@@ -61,4 +61,3 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 - D. Yue, S. Baldi, W. Xu and J. Cao, "Distributed adaptive consensus via event-triggered sampling: An edge-based method," 18th IEEE International Conference on Networking, Sensing and Control (ICNSC), Xiamen, China, 2021, (*Best Paper in Theory*) [link](https://ieeexplore.ieee.org/document/9702132) [pdf](../files/C3.pdf) [bib](../files/C3bib.txt)
 
 - D. Yue, Qi Li, J. Cao and X. Tan, "Robust neuro-adaptive asymptotic consensus for a class of uncertain multi-agent systems: An edge-based paradigm," 2019 International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary, 2019, [link](https://ieeexplore.ieee.org/document/8851918) [pdf](../files/C2.pdf) [bib](../files/C2bib.txt)
-
