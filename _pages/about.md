@@ -30,7 +30,6 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 - Graph signal processing
 
 ## Selected publications
-\* For a full list, please refer to [my Google Scholar page](https://scholar.google.com/citations?user=87n9UeMAAAAJ&hl=zh-CN)
 ### Journal papers
 - 岳冬冬, 史建涛, 王钢, 曹进德. 有向图上不确定性参数系统的有限时间辨识与自适应一致性控制. 自动化学报, 2025, [link](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240382) [pdf](../files/J12.pdf) [bib](../files/J12bib.txt)
 
@@ -52,8 +51,14 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 
 - D. Yue, J. Cao, Qi Li and M. Abdel-Aty, "Distributed neuro-adaptive formation control for uncertain multi-agent systems: Node- and edge-based designs," in IEEE Transactions on Network Science and Engineering, 2020, [link](https://ieeexplore.ieee.org/document/9007519) [pdf](../files/J2.pdf) [bib](../files/J2bib.txt)
 
-
 ### Conference papers
+- D. Yue, S. Baldi, and J. Cao, "D-MRACO: Decentralized Model Reference Adaptive Controller and Observer", IFAC-PapersOnLine, Yokohama, Japan, 2023, [link](https://www.sciencedirect.com/science/article/pii/S2405896323015057) [pdf](../files/C6.pdf) [bib](../files/C6bib.txt)
 
+- D. Yue, S. Baldi, and J. Cao, "Robust model reference adaptive consensus with neural networks", 34th  Chinese Control and Decision Conference (CCDC), Hefei, China, 2022, [link](https://ieeexplore.ieee.org/document/10033441) [pdf](../files/C5.pdf) [bib](../files/C5bib.txt)
 
+- D. Yue, S. Baldi, and J. Cao, "Distributed adaptive consensus disturbance rejection: a directed-spanning-tree perspective", 41st Chinese Control Conference (CCC), Hefei, China, 2022, [link](https://ieeexplore.ieee.org/document/9902382) [pdf](../files/C4.pdf) [bib](../files/C4bib.txt)
+
+- D. Yue, S. Baldi, W. Xu and J. Cao, "Distributed adaptive consensus via event-triggered sampling: An edge-based method," 18th IEEE International Conference on Networking, Sensing and Control (ICNSC), Xiamen, China, 2021, (*Best Paper in Theory*) [link](https://ieeexplore.ieee.org/document/9702132) [pdf](../files/C3.pdf) [bib](../files/C3bib.txt)
+
+- D. Yue, Qi Li, J. Cao and X. Tan, "Robust neuro-adaptive asymptotic consensus for a class of uncertain multi-agent systems: An edge-based paradigm," 2019 International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary, 2019, [link](https://ieeexplore.ieee.org/document/8851918) [pdf](../files/C2.pdf) [bib](../files/C2bib.txt)
 
