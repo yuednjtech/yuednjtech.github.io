@@ -36,13 +36,11 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
   - distributed adaptive optimization, resource allocation
 
 ### Seleected Projects
-- National Natural Science Foundation of China under Grant 62503219, 2026.1-2028.12, Model reference adaptive stabilizing control of uncertain heterogenous multi-agent systems, &yen 300,000
+- National Natural Science Foundation of China under Grant 62503219, 2026.1-2028.12, Model reference adaptive stabilizing control of uncertain heterogenous multi-agent systems, ¥ 300,000
 
-- China Postdoctoral Science Foundation under Grant 2025M771729, 2025.3-2027.2, Cooperative adaptive observer and identifier of uncertain linear systems, &yen 80,000
+- China Postdoctoral Science Foundation under Grant 2025M771729, 2025.3-2027.2, Cooperative adaptive observer and identifier of uncertain linear systems, ¥ 80,000
 
-- Natural Science Foundation of Jiangsu Province under Grant BK20240531, 2024.9-2027.8, Model reference adaptive stabilizing control of uncertain heterogenous network systems, &yen 200,000
-
-- China Postdoctoral Science Foundation under Grant BX2021064, 2021.7-2023.7, Distributed adaptive optimization and economic dispatch, \yen 630,000
+- China Postdoctoral Science Foundation under Grant BX2021064, 2021.7-2023.7, Distributed adaptive optimization and economic dispatch, ¥ 630,000
 
 
 ### Selected publications
