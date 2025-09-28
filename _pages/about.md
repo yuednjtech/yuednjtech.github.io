@@ -86,9 +86,21 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 - Principles of Automatic Control
 - Academic Writing
 
-## Awards 
-- Natural Science Award by Chinese Association of Automation (CAA), Third Prize, *Rank 3/4*
-- Outstanding PhD thesis of Class of 2022, Southeast University
-- National Government Scholarship for PhD students, Ministry of Education of P. R. China
-- National Government Scholarship for Studying Abroad, China Scholarship Council
-- Outstanding graduates of Class 2015, Hefei University of Technology
+## Awards
+- Science and Technology Award (Innovation Technology), China Simulation Federation (SCF), Second Prize, *Rank 3/9*, 2025
+- Science and Technology Award (Natural Science), Chinese Association of Automation (CAA), Third Prize, *Rank 3/4*, 2024
+- Science and Technology Progress Award, China Instrument and Control Society (CICS), Second Prize, *Rank 6/7*, 2024
+- Outstanding PhD thesis of Class of 2022, Southeast University, 2022
+- Best Paper in Theory, IEEE ICNSC 2021, 2021
+- National Government Scholarship for PhD students, Ministry of Education of P. R. China, 2020
+- National Government Scholarship for Studying Abroad, China Scholarship Council, 2019
+- Outstanding graduates of Class 2015, Hefei University of Technology, 2015
+
+## Extra
+- Young Editorial Board Member of Journal of Artificial Intelligence & Control Systems (JAICS) since 2025.4
+- Member of IEEE since 2021.9, Member of CAA since 2022.1, Member of CICC since 2022.3
+- Reviewer of Automatica, IEEE TAC, IEEE TCYB, IEEE L-CSS, IEEE TSMC-S, IJSS, etc.
+- Hobbies: basketball, swimming, billiard, piano, guitar
+
+
+
