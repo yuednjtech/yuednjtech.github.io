@@ -49,7 +49,7 @@ Dongdong Yue (Member, IEEE) received the B.S. degree in applied mathematics from
 
 -  D. Yue, S. Baldi, J. Cao and L. Shi, "Adaptive exponential consensus with cooperative exponential parameter identification over leaderless directed graphs," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025, [link](https://ieeexplore.ieee.org/document/10819696) [pdf](../files/J11.pdf) [bib](../files/J11bib.txt)
 
-- D. Yue, J. Shi, L. Shi, P. Frasca and S. Baldi. "Model reference adaptive stabilizing control for leader-following consensus," in IEEE Transactions on Automatic Control, 2025, [link](https://ieeexplore.ieee.org/document/10970026) [pdf](../files/J10-ea.pdf) [bib](../files/J10bib.txt)
+- D. Yue, J. Shi, L. Shi, P. Frasca and S. Baldi. "Model reference adaptive stabilizing control for leader-following consensus," in IEEE Transactions on Automatic Control, 2025, [link](https://ieeexplore.ieee.org/document/10970026) [pdf](../files/J10.pdf) [bib](../files/J10bib.txt)
 
 - D. Yue, S. Baldi, J. Cao and B. De Schutter, "Model reference adaptive stabilizing control with application to leaderless consensus," in IEEE Transactions on Automatic Control, 2024, [link](https://ieeexplore.ieee.org/abstract/document/10246353) [pdf](../files/J9.pdf) [bib](../files/J9bib.txt)
 
